@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://imanehmz.github.io/imanehmz//sitemap.xml
+Sitemap: https://imanehmz.github.io/sitemap.xml
